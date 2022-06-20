@@ -35,8 +35,9 @@ Linter Styling
 
 👤Ugboaja-Uchechi
 
-[GitHub](https://tired-coder.heroku-app.com)
-[LinkedIn](https://www.linkedin.com/in/stephanie-ugboaja)
+- [GitHub](https://github.com/Ugboaja-Uchechi)
+
+- [LinkedIn](https://www.linkedin.com/in/stephanie-ugboaja)
 
 ## 🤝Contributing
 
